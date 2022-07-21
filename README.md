@@ -1,14 +1,13 @@
-<h1 align="center">vdoing-template</h1>
-
+<h1 align="center">will-notes</h1>
 
 <div align="center">
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/will-notes)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/will-notes.svg)](https://github.com/eryajf/will-notes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/will-notes)](https://github.com/eryajf/will-notes/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/will-notes)](https://github.com/eryajf/will-notes/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/will-notes)](https://github.com/eryajf/will-notes/blob/main/LICENSE)
 
 </div>
 
@@ -18,13 +17,13 @@
     <br>
 </p>
 
-⚗️功能亮点：
+⚗️ 功能亮点：
 
 - 三步配置生成一个属于自己的免费个人博客。
 - 使用[Vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)主题，感谢作者写出如此简洁美观的博客主题。
 - 模板已内置集成全文搜索能力。
-- 模板已内置集成基于GitHub Issue的vssue评论系统。
-- 本地Markdown编写文档，提交到远程之后`GitHub Actions`自动构建发布。
+- 模板已内置集成基于 GitHub Issue 的 vssue 评论系统。
+- 本地 Markdown 编写文档，提交到远程之后`GitHub Actions`自动构建发布。
 
 🦩 以下仅需简短的几步配置，就可以配置拥有一个免费的个人博客。准备好了吗，来吧！
 
@@ -42,7 +41,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vdoing-template](https://github.com/eryajf/vdoing-template)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[will-notes](https://github.com/eryajf/will-notes)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
@@ -50,7 +49,7 @@
 
 ![image_20220721_154115](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_154115.png)
 
-> 这里有一个注意点：仓库的名字将会是 `GitHub Pages` 的访问一级路由。比如上边我仓库名字定义为：`lql-notes`，那么配置成功之后的首页访问路径是： https://lql95.github.io/lql-notes  ，如果你想让首页的访问路径是根，那么只需把仓库名字命名为：`lql95.github.io`。
+> 这里有一个注意点：仓库的名字将会是 `GitHub Pages` 的访问一级路由。比如上边我仓库名字定义为：`lql-notes`，那么配置成功之后的首页访问路径是： https://lql95.github.io/lql-notes ，如果你想让首页的访问路径是根，那么只需把仓库名字命名为：`lql95.github.io`。
 
 创建完成之后，自己仓库中的项目内容如下：
 
@@ -78,7 +77,7 @@ $ git clone git@github.com:lql95/lql-notes.git
 
 ### 配置评论
 
-模板默认内置了vssue的评论组件，也是基于github的issue作为评论的存储数据。
+模板默认内置了 vssue 的评论组件，也是基于 github 的 issue 作为评论的存储数据。
 
 只需两步即可完成配置：
 
