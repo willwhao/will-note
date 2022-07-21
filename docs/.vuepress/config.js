@@ -10,9 +10,9 @@ const themeConfig = require('./config/themeConfig.js')
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: 'will-notes',
+  title: 'will-note',
   description: 'vdoing博客主题模板',
-  base: '/will-notes/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/will-note/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true // 代码行号
   },
@@ -34,7 +34,7 @@ module.exports = {
         clientId: '7fd17fa1604cfd45804a',
         clientSecret: 'f71b41092cd654c29456d63d30a903849806333d',
         owner: 'eryajf',
-        repo: 'will-notes'
+        repo: 'will-note'
       }
     ],
     // 增强 markdown
